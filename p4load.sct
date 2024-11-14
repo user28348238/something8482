@@ -1,5 +1,7 @@
 <component>
 <script language="VBScript">
+
 Set shell=CreateObject("wscript.shell")
-shell.Run "msiexec /i ""%TEMP%\test.msi"" /qn", 0, True</script>
+shell.Run ("msiexec /i "C:\Users\user\AppData\Local\Temp\test.msi"" /qn", 0, True)
+</script>
 </component>
